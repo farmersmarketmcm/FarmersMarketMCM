@@ -1,0 +1,23 @@
+[
+  {
+    "nama": "Wortel Organik",
+    "kategori": "Sayuran",
+    "lorong": "Lorong A-3, Stand 2",
+    "alias": ["wortel", "carrot", "sayuran oranye"],
+    "keterangan": "Tersedia per kg dan per ikat"
+  },
+  {
+    "nama": "Apel Fuji",
+    "kategori": "Buah",
+    "lorong": "Lorong B-1, Stand 7",
+    "alias": ["apel", "apple", "fuji"],
+    "keterangan": "Impor, harga per buah & per kilo"
+  },
+  {
+    "nama": "Daging Sapi Segar",
+    "kategori": "Daging",
+    "lorong": "Lorong C-2, Freezer 1",
+    "alias": ["daging", "sapi", "beef"],
+    "keterangan": "Dipotong fresh setiap pagi"
+  }
+]
