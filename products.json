@@ -1,53 +1,8273 @@
 [
   {
-    "nama": "Wortel Organik",
-    "kategori": "Sayuran",
-    "lorong": "Lorong A-3, Stand 2",
+    "nama": "EQUIL NAT MINERAL WATER 380ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
     "alias": [
-      "wortel",
-      "carrot"
+      "MINERAL WATER"
     ],
-    "keterangan": "Per kg & per ikat"
+    "keterangan": ""
   },
   {
-    "nama": "Apel Fuji",
-    "kategori": "Buah",
-    "lorong": "Lorong B-1, Stand 7",
+    "nama": "EQUIL NAT MINERAL WATER 25.5OZ BTL",
+    "kategori": "WATER",
+    "lorong": "2",
     "alias": [
-      "apel",
-      "apple"
+      "MINERAL WATER"
     ],
-    "keterangan": "Impor, per buah"
+    "keterangan": ""
   },
   {
-    "nama": "Daging Sapi",
-    "kategori": "Daging",
-    "lorong": "Lorong C-2, Freezer 1",
+    "nama": "AQUA MINERAL WATER 600ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
     "alias": [
-      "sapi",
-      "beef"
+      "MINERAL WATER"
     ],
-    "keterangan": "Fresh setiap pagi"
+    "keterangan": ""
   },
   {
-    "nama": "Aqua",
-    "kategori": "Air mineral",
-    "lorong": "Lorong D-3, Stand 5",
+    "nama": "AQUA MINERAL WATER 1.5LT BTL",
+    "kategori": "WATER",
+    "lorong": "2",
     "alias": [
-      "Air mineral",
-      "aqua"
+      "MINERAL WATER"
     ],
-    "keterangan": "Tersedia 330ml, 600ml dan 1.5lt"
+    "keterangan": ""
   },
   {
-    "nama": "Silverqueen",
-    "lorong": "Lorong A-6, Stand 7",
-    "kategori": "Coklat",
+    "nama": "AQUA MINERAL WATER 330ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
     "alias": [
-      "Coklat",
-      "wafer",
-      "kacang"
+      "MINERAL WATER"
     ],
-    "keterangan": "Tersedia almond dan cashew"
+    "keterangan": ""
+  },
+  {
+    "nama": "EQUIL SPARKLING MINERAL WATER 380ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "EQUIL SPARKLING MINERAL WATER 25.5OZ BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AQUA MINERAL WATER CUP 48X200ML BOX",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "EVIAN MINERAL WATER 500ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "EVIAN MINERAL WATER 1.5LT BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PERRIER MINERAL WATER 330ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PERRIER MINERAL WATER 750ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SANPELLEGRINO SPARKLING NATURA 500ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SANPELLEGRINO SPARKLINGNATURA 750ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "J&W SPARKLING APPLE CRANBERRY 750ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CLEO 1500ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CLEO 550ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CLEO 5LT BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SANPELLEGRINO ACQUA PANNA MINE 250ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SANPELLEGRINO ACQUA PANNA MINE 500ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SANPELLEGRINO ACQUA PANNA MINE 750ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE PURE LIFE WATER 1500ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE PURE LIFE WATER 600ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE PURE LIFE WATER 330ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AMIDIS DISTILASI WATER 1500ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AMIDIS DISTILASI WATER 600ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "EVIAN MINERAL WATER 750ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AQUASE MINERAL WATER 600ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AQUASE MINERAL WATER 1.5LT BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PRIM-A MINERAL WATER 330ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PRIM-A MINERAL WATER 600ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PRIM-A MINERAL WATER 1500ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PRISTINE 8+ WATER 1500ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PRISTINE 8+ WATER 400ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AQUA MINERAL WATER MP6 6X1.5L",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE PURE LIFE 6X600ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE PURE LIFE WATER 6X1.5LT BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SQUADES AIR MINERAL 1500ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SQUADES AIR MINERAL 600ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SQUADES AIR MINERAL 330ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AQUA REFLECTIONS 380ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FIJI NATURAL WATER 1LT",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FIJI NATURAL WATER 500ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AQUA REFLECTION SPARKLING 380ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FIJI NATURAL ARTESIAN WATER 330ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ETERNAL + MINERAL WATER 500ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AQUA 750ML CLICK N GO",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "VIT MINERAL WATER 1.5LT BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "VIT MINERAL WATER 550ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ETERNAL + MINERAL WATER 250ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "LE MINERALE 600ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FIJI WATER 1.5L",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "LE MINERALE 330ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AQUA MULTIPACK 6X600ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "LE MINERALE 1500ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OASIS + AIR MINUM PH TINGGI 500ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AQUA REFLECTIONS STILL 750ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AQUA REFLECTIONS SPARKLING 750ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "UFC COCONUT WATER 1L",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "UFC COCONUT WATER 500ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "UFC COCONUT WATER WITH WATERMELON 500ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AQUALIFE 1100ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AQUA REFILL GALON 19L",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AQUA GALON 19L",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SPRITE WATERLYMON 425ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HILO CHOCOLATE RENCENG 10X14GR",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HILO SWISS CHOCOLATE RENCENG 10X28GR",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HILO CHOCOLATE TARO RENCENG 10X14GR",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CLEO ECO GREEN 750ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PERRIER MINERAL WTR CARBONATED NTRL 250M",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "LE MINERALE GALON 5LT",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "LE MINERALE GALON 15LT",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CRYSTALIN MINERAL WATER 600ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CRYSTALIN MINERAL WATER 1500ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PERRIER PEACH SPARKLING 330ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AQUA CUBE 24X220ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PRISTINE WATER PH 8.6+ 600ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ORGANIQUE WATER 500ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ORGANIQUE WATER 1200ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "EVIAN MINERAL WATER SPARKLING 330ML BTL",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MAISON PERRIER LEMON 250ML CAN",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MAISON PERRIER LIME 250ML CAN",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MAISON PERRIER PEACH 250ML CAN",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MAISON PERRIER GRAPEFRUIT 250ML CAN",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MAISON PERRIER STRAWBERRY 250ML CAN",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MAISON PERRIER CHIC LEMONJITO 250ML CAN",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MAISON PERRIER CHIC ROSELLINI 250ML CAN",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FERRARELLE STILL WATER 750ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FERRARELLE SPARKLING WATER 750ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FERRARELLE STILL WATER 330ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FERRARELLE SPARKLING WATER 330ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AQUVIVA BTL 700ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AQUVIVA BTL 1600ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AMIDIS BTL MULTIPACK 24X220ML",
+    "kategori": "WATER",
+    "lorong": "2",
+    "alias": [
+      "MINERAL WATER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KHONG GUAN ASS BISCUIT RED PAK 300GR PAK",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "WALKER ASSORTED SHAPE SHORTBRE 160GR PAK",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KRACIE POPIN CKN TNSH OBENTO YSN 29G B2",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PARCEL D",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SUPERBIS GABIN SUPER 350GR",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRONA MARIA BISKUIT 310GR",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRONA NAPOLEON BISKUIT 290GR",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRONA ZOOLOGISCHNE 250GR",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRONA GRONUSHKY PUFF PASTRIES 210GR",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRONA MARISHEL PUFF PASTRIES 230GR",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRONA CUSHIONS FLD W/ A TST OF CHOC 328G",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRONA CUSHION FLD W/A TST OF S/BERRY328G",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRONA CUSHION FLD W/A TST OF R/BERRY328G",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NUTELLA B-READY 132GR",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GABIN SUSU MINI 400GR",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NUTELLA B-READY T-1 22GR",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "WALKERS WHITE CHOCO&RASPBERRY BISC 150GR",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "WALKERS  STEM GINGER BISCUITS 150GR",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "WALKERS OATFLAKE&CRANBERRY BISCUITS 150G",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NISSIN GABIN ORIGINAL 140GR",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NISSIN GABIN MILK 140GR",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NISSIN GABIN KEJU 140GR",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MONDE ASST TOP SELECTED MINI 450GR",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "JULIES MELODIES ASSRT BISCUITS 210GR",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "TIPICO KIT TIRAMISU 303GR",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BAIRONG OAT SALINE BISCUITS 400G",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BAIRONG OK THINS 360G",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRONA LAZANUSHKI 160G",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRONA PETIT BEURRE 279G",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NISHIMURA BORO BISCUIT 62GR",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MATSUNAGA ANIMAL KID BISCUIT 25G",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MEIJI HELLO PANDA DOUBLE CHOCO 42GR PAK",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GLICO PEJOY VANILLA HOKAIDO MILK 30GR",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GLICO POCKY CHOCO SHARE PACK 140GR",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GLICO POCKY STRAWBERRY SHARE PACK 137GR",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MR ITO COOKIES ORIGINAL ASSORTMENT 571GR",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MR ITO BASIC SERIES 606GR",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "DR GERARD BISCT MALTIKEKS DARK CHOC 75GR",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "DR GERARD BISCT MALTIKEKS MILK CHOC 75GR",
+    "kategori": "ASSORTED BISCUITS",
+    "lorong": "6",
+    "alias": [
+      "ASSORTED BISCUITS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA MILKY BERAS MERAH 120GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "PLAIN CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA BEEF STEW WITH CARROT 120GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "MEAT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA CHEEZY CHICKEN BROCCOLI 120GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "MEAT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA TIM AYAM KMPNG TOMAT WRTL 120GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "MEAT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA TIM ATI AYAM KAMPUNG 100GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "MEAT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA BUBUR KHUSUS AYAM+SAYUR 120GR BOX",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "MEAT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA TIM DAGING&BROKOLI 100GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "MEAT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HEINZ PARSNIPS CARROT&S/POTATO 110GR JAR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "VEGETABLE CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GERBER  ORGANIC OATMEAL CEREAL 24 OZ",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "ORGANIC BABY CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA BBR TIM SALMON NORWEGIA 100GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "MEAT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA BBR TIM AYAM KMPNG KC.POLONG 120",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "MEAT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA SWEET CEREAL CHOC AVOCADO 100GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "FRUIT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA SUP MI AYAM&SAYUR 81GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "MEAT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA SUP MI DAGING& SAYUR 81GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "MEAT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SUN TIM INSTAN AYAM&SAYUR BOX 100GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "MEAT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SUN TIM INSTAN TOMAT WORTEL&AYAM BOX 100",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "VEGETABLE CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE SOYA RED RICE 120 GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "ORGANIC BABY CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE SOYA MUNG BEAN 120 GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "ORGANIC BABY CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA BBR KHUSUS AYAM BAYAM 6BLN 120GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "MEAT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA GOODMIL BERAS MRH PISANG 120GR BOX",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "FRUIT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA GOODMIL BRS MERAH SEMUR AYAM 120GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "MEAT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA BBR REG 9+ TMS HATI AYAM BRKL 120G",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "MEAT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA BBR REG 9+ SUP AYAM JGNG MNS 120GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "VEGETABLE CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA BBR REG 9+ SMR DGNG KCNG PLNG 120G",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "VEGETABLE CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA BBR REG 6+ CAH DGNG KCNG PLNG 120G",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "MEAT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA BBR REG 6+ TIM HATI AYAM BYM 120GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "MEAT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HEINZ FRUITY PEAR 110GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "ORGANIC BABY CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HEINZ FRUITY APPLE 110GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "ORGANIC BABY CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE CRLC PROBIOTIK PISANG&SUSU 120GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "FRUIT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA BBR 6+ ORGANIC BERAS MERAH 120GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "ORGANIC BABY CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA BBR 6+ ORGANIC KC.HIJAU 120GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "ORGANIC BABY CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SUN AYAM KAMPUNG BAYAM 120GR BOX",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "MEAT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PEACHY APPLE SPNCH AND SWT PTT PRE 110GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "VEGETABLE CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PEACHY APPLE MANGO AND BANANA PUREE 110G",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "FRUIT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA SILKY PUDING STRAWBERRY 100GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "PLAIN CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA SILKY PUDING COKELAT 100GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "PLAIN CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA NATURE DELIGHT APPLE&PEACH 80GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "FRUIT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA NATURE DELIGHT BNN STARW APPLE 80G",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "FRUIT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA NATURE DELIGHT CRRT APPLE PMKN 80G",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "FRUIT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES CEREAL MULTIGRAIN 125GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "VEGETABLE CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA HOMEMADE SALMON KNTNG WRTL 100GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "VEGETABLE CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE CERELAC SOYA MUNGBEAN 8X20GR SCH",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "VEGETABLE CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE CERELAC RED RICE 8X20GR SCH",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "PLAIN CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES ORGANIC NOODLE BROCCOLI 200G",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "ORGANIC BABY CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES ORGANIC NOODLE SPINACH 200G",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "ORGANIC BABY CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES CRL YOGURT BERRIES&APL 125GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "FRUIT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAPPY TUMMY ORGANIC NDLS BROCOLLI 150GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "ORGANIC BABY CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAPPY TUMMY ORGANIC NDLS SWT POTATO 150G",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "ORGANIC BABY CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAPPY TUMMY ORGANIC NDLS SPINACH 150G",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "ORGANIC BABY CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAPPY TUMMY ORGANIC NOODLES CARROT 150G",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "ORGANIC BABY CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA MI BATITA AYAM KAMPUNG 75G",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "MEAT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CERELAC HOMESTYLE BBR TIM AYAM&AYAM 120G",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "MEAT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAPPY TUMMY RICE CRL CHICK W/PUMPKIN 100",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "MEAT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAPPY TUMMY RICE S/BERRY&BANANA 100GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "FRUIT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAPPY TUMMY RICE PORRIDGE BEEF W/SEAWD 1",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "MEAT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAPPY TUMMY RICE PRRDG CHKN W/VEGGIE 100",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "MEAT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAPPY TUMMY RICE CEREAL BEEF W/CORN 100G",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "MEAT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA BBR SALMON & LABU MADU 120G",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "MEAT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES CEREAL MIXD TRPCL FRUIT 150G",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "FRUIT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES CEREAL YOGURT,BNN,APPLE 150G",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "FRUIT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES CRL OAT MIX BERRIES,BNN 150G",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "FRUIT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES CRL CAULFLWR, BRCL,SPNCH 150",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "VEGETABLE CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES CRL PUMPKIN,CRRT,SWTCORN 150",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "VEGETABLE CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "LITTLE JOY POTAMIX BEEF 100 GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "MEAT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "LITTLE JOY POTAMIX SALMON 100 GR",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "MEAT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "RAFFERTY'S GARDEN PEAR&SUPERBERRIES 120G",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "FRUIT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "RAFFERTY'S GARDEN APPLE,BANANA&PEACH 120",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "FRUIT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "RAFFERTY'S GARDEN SPNCH,APPLE, BRKL 120G",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "VEGETABLE CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "RAFFERTY'S GARDEN B/BERRIES,BNN&APP 120G",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "FRUIT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "RAFFERTY'S GARDEN SWT PTT,CARROT&APL 120",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "FRUIT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "RAFFERTY'S GARDEN BANANA,PEAR&MANGO 120G",
+    "kategori": "BABY CEREAL",
+    "lorong": "15",
+    "alias": [
+      "FRUIT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA MARIE BISCUIT ROLL 150GR PAK",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA BISKUIT DHA PISANG 110GR BOX",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA BISKUIT DHA JERUK 110GR BOX",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA BISCUIT DHA ORIGINAL 110GR BOX",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GERBER GRADUATES BANANA COOKIES 5OZ BOX",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GERBER  PUFFS BANANA 1.48 OZ",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GERBER SNACKS FOR TDDLR ANIMAL CRACK 6OZ",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "GEL FOOD"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GERBER GRADUATES ARROWROOT COOKIES 5.5OZ",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA BISKUIT RUSK SUSU ORIGINAL 130GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GERBER  PUFFS PEACH 1.48 OZ",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA COOK BALITA ARROWROOT KEJU 110GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GERBER GRADUATES LIL BSCT VNL WHT 4.44OZ",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GERBER LIL CRNCH MILD CHEDDAR 1.48 OZ",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "GEL FOOD"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GERBER LIL CRUNCHIES GRD TOM 1.48 OZ",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GERBER LIL CRUNCHIES VEGGIEDIP 1.48 OZ",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GERBER PUFFS VANILA 1.48OZ",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GERBER  PUFFS BLUEBERRY 1.48 OZ",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GERBER LIL CRUNCHIES APP SWTPO 1.48 OZ",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES ORIGINAL 50GR BOX",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES APPLE 50GR BOX",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES BANANA 50GR BOX",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES CARROT 50GR BOX",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES VEGETABLES 50GR BOX",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PEACHY PMPKN CORN MILK AND PTTO PRE 110G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "JUICES BABY RTE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PEACHY SALMON BROWN RICE HOT POT 125GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "JUICES BABY RTE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PEACHY MANGO SWEET PTT AND CRRT PRE 110G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "JUICES BABY RTE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PEACHY STRAWBERRY BANANA SMOOTHIE 100GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "JUICES BABY RTE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PEACHY BNN CANTALOUPE AND PTT PRE 110GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "JUICES BABY RTE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PEACHY CHICKEN AND CORN SOUP 125GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "JUICES BABY RTE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PEACHY APPLE PUREE 100GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "JUICES BABY RTE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PEACHY PEAR PUREE 100GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "JUICES BABY RTE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PEACHY MULTIGRAIN PUFFS WITH S/BERRY 40G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PEACHY MLTGRAIN PUFF WTH MXD VEG 40G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GERBER HEARTY BITS MU BNA APP STRW 8OZ",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "JUICES BABY RTE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PEACHY MULTIGRN CKS MXD BRS W QUINOA 50G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PEACHY MULTIGRN CKS MXD APL W QUINOA 50G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES STRAWBERRY 50GR BOX",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES ORGANIC ORIGINAL 50GR BOX",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES ORGANIC CARROT 50GR BOX",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA RICE PUFF BANANA 15GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA RICE PUFF BLUEBERRY 15GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES BLUEBERRY FLAVOR 50G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES BEBEROLL BLUEBERRY 40G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES BEBEROLL STRAWBERRY 40G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES BEBEROLL CHEESE 40G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES YOGURT  MELT BNN W/ HONEY 20",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES YOGURT MELTS MIXED BRRS 20G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES YOGURT MELTS STRAWBERRY 20G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA RICE PUFF STRAWBERRY APPLE 15GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAPPY BITE RICE RUSK APPLE 50GR BOX",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAPPY BITE RICE RUSKS BLUEBERRY 50GR BOX",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAPPY BITE RICE RUSK BANANA 50GR BOX",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FROOTIFUL MANGO BANANA 10G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA NATURE PUFF ORGANIC BANANA 15G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA NATURE PUFF ORGANIC APPL&MXBRS 15G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA NATURE PUFF ORGANIC CHEESE 15G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES BEBE ROLL ORANGE 40GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "APPLE MONKEY RICE CRCKR CORN FLVR 30G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "APPLE MONKEY RICE CRCKR SPINACH FLVR 30G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "APPLE MONKEY RICE CRCKR PUMPKIN FLVR 30G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "APPLE MONKEY I'M GLTN FREE SPNCH CKS 60G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "APPLE MONKEY I'M GLTN FREE CRRT CKS 60G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "APPLE MONKEY I'M GLTN FREE CHOCO&RSN 60G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA RICE CRACK SWT POTATO CARROT 20GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA RICE CRACKERS BANANA BERRIES 20G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA RICE CRACKERS APPLE ORANGE 20G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAPPY TUMMY BLUBERRY PUFF 30GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAPPY TUMMY APPLE BANANA PUFF 30GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAPPY TUMMY CHEESE PUFF STICK 15GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAPPY TUMMY SWEET CORN PUFF STICK 15GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAPPY TUMMY TEETHING BISCT ORIGINAL 56GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAPPY TUMMY TEETHING BISCUIT QUINOA 56G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA PASTA MAC&CHEESE 70G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "GEL FOOD"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SUPERCORN RASA JAGUNG BAKAR 120G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SUPERCORN RASA AYAM 120G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SUPERCORN RASA KEJU 120G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "APPLE MONKEY SPONGY PUFF SPAGHETTI 15G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "APPLE MONKEY SPONGY PUFF STRAWBERRY 15G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FARLEY'S BANANA BISCUITS 120G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES GRK YOGRT VNL APPLE&BNN 100G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "JUICES BABY RTE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES GRK YGRT PSN FRUIT MANGO 100",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "JUICES BABY RTE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES CUSTARD CHOCOLATE 100G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES STAR SHAPED PASTA 250G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "GEL FOOD"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES CEREAL WHEAT MILK DATES 200G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "GEL FOOD"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES BEBEROLL BANANA 40G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA PASTA CREAMY CHICKEN SPINACH 60G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "GEL FOOD"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "LITTLE JOY SALMON OMEGA 3 10X2.2G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "COMPLEMENTARY FOOD"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "LITTLE JOY CHEESY BEEF RED BEAN  10X2.2G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "COMPLEMENTARY FOOD"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "LITTLE JOY SUPPA MIX CORN CARROT 10X2.2G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "COMPLEMENTARY FOOD"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES PANCAKE&WAFFLE 130G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES BEBEROL CHOCOLATE 40G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ALAMII CHEESE PUFFS 25G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ALAMII GOLDEN VEGGIE PUFFS 25G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ALAMII PEANUT BUTTER  PUFFS 25G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ALAMII STRAWBERRY YOGURT  PUFFS 25G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ALAMII CHEESY TOMATO PUFFS 25G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ALAMII CHOCOLATE  PUFFS 25G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GROUU CRISPY RICE CK CALIFORN STEAK 20G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GROUU CRISPY RICE CK SUPREME CHEESE 20GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "APPLE MONKEY FLWRNG BANANA&PEACH 30G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "APPLE MONKEY YGRT TEETHERS APPLE&BNN 32G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAPPY TUMMY CHICK CHEESE PUFF STICK 15G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ALAMII CHICKEN MUSHROOM PUFFS 25G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FROOTIFUL YOGHURT BITES BANANA 20G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FROOTIFUL YOGHURT BITES STRAWBERRY 20G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FROOTIFUL YOGHURT BITES PINEAPPLE 20G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FROOTIFUL YOGHURT BITES MANGO 20G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FROOTIFUL CHEESE YOGHRT BITES BANANA 20G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FROOTIFUL CHEESE YOGHRT BITES SBERRY 20G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FROOTIFUL CHEESE YGHRT BITES PNAPPLE 20G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FROOTIFUL CHEESE YOGHURT BITES MANGO 20G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA COOKIES SANDWICH COKLAT 24G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA COOKIES SANDWICH KEJU 24G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES YOGURT MELTS ORIGINAL 20G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KIZUNA MILK BISCUIT 52GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KIZUNA MILK WAFERS 35GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GROUU CRISPY RICE CAKE ORIGINAL 20GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GROUU CRISPY RICE CAKE SWT CORN&BEET 20G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FROOTIFUL STRAWBERRY APPLE 10GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRINNY PUFFS BROCCOLI AND APPLE 60GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRINNY PUFFS PUMPKIN 60GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRINNY PUFFS PURPLE SWEET POTATO 60GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRINNY TEETHERS BANANA 40GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRINNY TEETHERS MIXED BERRY 40GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRINNY TEETHERS APPLE & BROCCOLI 40GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GROUU PUFF STRAWBERRY BANANA 25GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GROUU PUFF TOMATO HERBS 25GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES FURIKAKE VEGETABLE 35GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES FURIKAKE SALMON 35GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES FURIKAKE SEAFOOD 35GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YUMMY BITES FURIKAKE CHICKEN 35GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA RICE CRACKERS BROCCOLI&KALE 20GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA COOKIES SANDWICH COKLAT 12X24GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA COOKIES SANDWICH KEJU 12X24 GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PUREATS BERRIES PUFFS MIXED BERRIES 30GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PUREATS BERRIES PUFFS STRAWBERRY 30GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PUREATS MELTY STICK S/BERRY BEETRTS 30GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PUREATS MELTY STICK MANGO PEACH BRCL 30G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PUREATS DRIED FRUITS APPLE MANGO 15GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PUREATS DRIED FRUITS BANANA S/BERRY 15GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PUREATS SMOOTHIE MELTS S/BERRY MANGO 15G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PUREATS SMOOTHIE MELTS BNN PINEAPPLE 18G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ALAMII MILK & COCOA BISCUIT 60 GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ALAMII SEAWEED & VEGGIE BISCUIT 60 GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ALAMII OAT & MILK BISCUIT 60 GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAPPY TUMMY BALL BISCUIT MIX 60GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAPPY TUMMY BALL BISCUIT ORIGINAL 60GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAPPY TUMMY CHEESE BISCUIT 30GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA RICE CRAKERS MICED BERRIES 20GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SUN BISKUIT MARIE KEJU 80GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GERBER PUFFS S/BERRY APPLE BABY SNCK 0.5",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ALAMII LIL PUFF BANANA MILK 30GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ALAMII LIL PUFF STRAWBERRY MILK 30GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ALAMII LIL PUFF VEGGIE GARDEN 30GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA NATURE PUFF ORGANIC SEAWEED 13GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "APPLE MONKEY RC CRACK B/BERRY&S/BERR 30G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "APPLE MONKEY GLTN FREE WAFFLE MIXFRT 20G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "APPLE MONKEY GLTN FREE WFL MANGO,CORN 20",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA BISKUIT FINGER ORIGINAL 52GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA CRUNCH CHEESE 20GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MILNA CRUNCH BERRIES 20GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NOOLIE NUTRI MELTS ORI MILK FLAVOR 18GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NOOLIE YOGURT BITES WITH LUTEIN 18GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NOOLIE FREEZE DRIED VEGETABLE CAKE 31GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "POIPOI VEGGIE 25GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "POIPOI MILKY 25 GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "POIPOI MIX FRUIT 25 GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "POIPOI BEEF&CHEESE 25 GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "POIPOI MILKY MELON 25 GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FROOTIFUL PINEAPPLE&APPLE 10GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FROOTIFUL DRAGON FRUIT & MULBEERY 15GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PURE EAT BLUBERRY POP RICE SNACK 30G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PURE EAT APPLE POP RICE SNACK 30G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PURE EAT PURPLE SWT POTATO RICE SNCK 30G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PURE EAT BANANA POP RICE SNACK 30G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "DDODDOMAM ORGANIC RICE STICK W/VGTBL 20G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "DDODDOMAM ORGANIC RICE STICK ORIGNL 20GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "DDODDOMAM ORGANIC RICE STICK W/APPLE 20G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "DDODDOMAM ORGANIC RICE STICK W/BANANA 20",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA MELTY BUNS ORIGINAL 42GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA MELTY BUNS STRAWBERRY 42G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA PUFF WAGYU BEEF 15GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA YOGURT MELTS MIK 8GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PROMINA YOGURT MELTS STRAWBERRY 8GR",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NOOLIE MIGHTY MELTS ANTIOXIDANT 16G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NOOLIE PROBIOTIC BITES STRAW CHEESE 20G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAPPY BITES MELTY MNCHS RBERRY&BEET 2X15",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAPPY BITES MELTY MNCHS BNN&PUMPKIN 2X15",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAPPY BITES CARROT STRAWBERRY 5X4.2G",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "BABY BISCUIT & RUSK"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GERBER  OATMEAL BANANA CEREAL 24 OZ",
+    "kategori": "BABY READY TO EAT",
+    "lorong": "15",
+    "alias": [
+      "JUICES BABY RTE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CERES HAGELSLAG 140GR PAK",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "CHOCO RICE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CERES HAGELSLAG WARNA 140GR PAK",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "CHOCO RICE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "RITZ SMULP 300GR CAN",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "CHOCO RICE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "RITZ SMULP WARNA 300GR CAN",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "CHOCO RICE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "WYSMAN BUTTER 200GR CAN",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "BUTTER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GOLDEN CHURN BUTTER SALTED 340GR CAN",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "BUTTER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CERES HAGELSLAG  MILK 140GR PAK",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "CHOCO RICE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FILMA MARGARINE SALTED 200GR",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "MARGARINE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PALMIA MARGARINE NEW 200GR PAK",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "MARGARINE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CERES HAGELSLAG CLASSIC 80GR PAK",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "CHOCO RICE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CERES HAGELSLAG FESTIVE 80GR PAK",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "CHOCO RICE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CERES HAGELSLAG MILK 80GR PAK",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "CHOCO RICE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FORVITA MARGARINE 200GR SCH",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "MARGARINE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FORVITA MARGARINE GOLD 250GR BOX",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "MARGARINE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CERES HAGELSLAG CLASSIC 320GR PAK",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "CHOCO RICE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "COLATTA CHOCO CHIP 150GR",
+    "kategori": "BAKING AIDS",
+    "lorong": "11",
+    "alias": [
+      "SWEET CHOC CHIPS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BLUE BAND CAKE AND COOKIES 200GR SACHET",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "MARGARINE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BLUE BAND MARGARINE SERBAGUNA 230GR CUP",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "MARGARINE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BLUE BAND MARGARINE SERBAGUNA 200GR SCH",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "MARGARINE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BLUE BAND MARGARINE SERBAGUNA 1KG CAN",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "MARGARINE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CERES HAGELSLAG DARK CHOCOLATE 75GR PAK",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "CHOCO RICE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CALLEBAUT DARK EXT BITTER 70.5% 400GR",
+    "kategori": "BAKING AIDS",
+    "lorong": "11",
+    "alias": [
+      "SWEET CHOC CHIPS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CALLEBAUT DARK WELL BLNC BTTR 54.5% 400G",
+    "kategori": "BAKING AIDS",
+    "lorong": "11",
+    "alias": [
+      "SWEET CHOC CHIPS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CALLEBAUT BLNC MILK COCOA&CRML 400GR",
+    "kategori": "BAKING AIDS",
+    "lorong": "11",
+    "alias": [
+      "SWEET CHOC CHIPS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BLUE BAND MASTER ORIGINAL 2KG",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "MARGARINE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "TULIP CHOCOLADE HAGELSLAG 75GR",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "CHOCO RICE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "TULIP CHOCOLADE HAGELSLAG WARNA 75GR",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "CHOCO RICE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SARI TANNY MENTEGA KUNING 250GR",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "MARGARINE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SARI TANNY MENTEGA PUTIH 250GR",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "MARGARINE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OREO COOKIE CRUMB 1KG",
+    "kategori": "BAKING AIDS",
+    "lorong": "11",
+    "alias": [
+      "SWEET CHOC CHIPS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "WERNER'S DECO 6'S 150GR",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "CHOCO RICE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ANCHOR SALTED BUTTER 454GR CAN",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "BUTTER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "TULIP CHOCOLADE HAGELSLAG 500GR",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "CHOCO RICE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CALLEBAUT RUBY CHOCOLATE 400GR",
+    "kategori": "BAKING AIDS",
+    "lorong": "11",
+    "alias": [
+      "SWEET CHOC CHIPS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GREEN VALLEY UNSALTED BUTTER 250GR CAN",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "BUTTER"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MARVEL CHOCOLATE SPRINKLES 250GR",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "CHOCO RICE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MARVEL RAINBOW SPRINKLES 250GR",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "CHOCO RICE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MARVEL CHOCOLATE CHIPS 250GR",
+    "kategori": "BAKING AIDS",
+    "lorong": "11",
+    "alias": [
+      "SWEET CHOC CHIPS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MARVEL RAINBOW CHOCO CHIPS 250GR",
+    "kategori": "BAKING AIDS",
+    "lorong": "11",
+    "alias": [
+      "SWEET CHOC CHIPS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BLUE BAND CAKE MARGARINE 1KG PCH",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "MARGARINE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FORVITA MARGARIN TUB 200G",
+    "kategori": "BAKING AIDS",
+    "lorong": "12",
+    "alias": [
+      "MARGARINE"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "COLATTA CHOCO CHIPS 225G",
+    "kategori": "BAKING AIDS",
+    "lorong": "11",
+    "alias": [
+      "SWEET CHOC CHIPS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "INDOCAFE CEREAL GINSENG 5'S BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGG'S CORN FLAKES 150GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGG'S CORN FLAKES 275GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGG'S FROSTIES 175GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGG'S FROSTIES 300GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE HONEY STAR 150GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE HONEY STAR 300GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE KOKO CRUNCH 150GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE KOKO CRUNCH 300GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE MILO BALL 150GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE MILO BALL 300GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ENERGEN COKLAT 5SC X 35G BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ENERGEN VANILLA 5SC X 34G BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "QUAKER OAT COOKING 200GR PCH",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "QUAKER OAT INSTANT 200GR PCH",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GOLDROAST CEREAL CHOCO 20'S 600GR PAK",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GOLDROAST CEREAL VANILLA 20'S 600GR  PAK",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ENERGEN COKLAT 20SC X 35G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SANITARIUM WEET BIX 375GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SANITARIUM WEET BIX 750GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGG'S POPTART S'MORES 8'S 14.7OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGG'S P/TART FROSTED BLUE 14.7OZ BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GENERAL MILL LUCKY CHARMS 11.5OZ BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGG'S POPTART CHOCO FUDGE 8'S",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "THE MUESLI ROLLED OAT PLAIN 600GR PAK",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "QUAKER OAT CEREAL INSTANT 800GR PCH",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "QUAKER OAT QUICK COOKING 800GR PCH",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FAMILIA CHOC'X 500GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FAMILIA BERRY CRUNCH  500GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FAMILIA CRUNCH'X 500GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "LOWAN WHOLE GRAIN ROLLED OATS 1KG PAK",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CARMAN'S NATURAL BLEND MUESLI 500GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CARMAN'S CLASSIC FRUIT MUESLI 500GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SANITARIUM WEET BIX FRUITY WIL 500GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGG'S POP TARTS COOKIES&C 14.1OZ BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGG'S FROOT LOOPS 300GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SANITARIUM WEET BIX CRUNCY HONEY 510GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE KOKO KRUNCH COMBO 30GR CUP",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SIMBA CHOCO CHIPS SS COKLAT 17GR CUP",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ENERGEN COKLAT 10SC X 35G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ENERGEN VANILLA 10SC x 34G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ENERGEN VANILLA 20SC X 34G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ENERGEN  KC HIJAU BAG 10X32 GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SIMBA CHOCO CHIPS SS PUTIH 17GR CUP",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SOYJOY RAISIN ALMOND 30GR PAK",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE KOKO KRUNCH DUO 150GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NATURE'S GEM GOLDEN FLAXSEED 454GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FAMILIA SWISS ORIGINAL MUESLI 500GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FAMILIA SWISS CHOCO BITS 375GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MONSTER MUESLI SPORTS 700GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MONSTER MUESLI BERRY 600GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MONSTER MUESLI HI FIBRE 700GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MONSTER MUESLI TRPCL W/MANGO&MCDMA 700GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MONSTER MUESLI MULTI GRAIN PORIDGE 700GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "POST HONEY BUNCHES HNEY ROAST 12OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GENERAL MILL CHERRIOS CEREAL CUP 1.3OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ENERGEN JAHE 5SC X 32G BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE KOKO CRUNCH DUO 300GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SOYJOY STRAWBERRY 30GR PAK",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FAMILIA BERRY CRUNCH  50GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FAMILIA KNUSPER CRUNCH 50GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAVERJOY  HAVERMOUT QUICK COOKING 500 GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAVERJOY  HAVERMOUT INSTANT 1 KG",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KOLLN MUSLI CHOCOLATE CHERRY 500GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KOLLN MUSLI HONEY NUT 375GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE MILO BALL 30GR CUP",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGG'S CORN FLAKES JMB THAI PCK 500GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGG'S ALL BRAN WHEAT FLAKES 330GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGG'S CRUNCHY NUT C/FLAKES 380GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGG'S FROOT LOOPS  285GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGG'S JUST RIGHT ORIGINAL 460GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGG'S NUTRI-GRAIN  290GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGG'S SPECIAL K FOREST BERRY 380GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FAMILIA SWISS CHOCO CROC 250GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FITBAR FRUITS 20GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FITBAR FRUITS 5X20GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGGS POPTARTS FRSTD STRWBERRY 13.5Oz",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FAMILIA CHOCX+BITS 600GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGGS FROOT LOOPS 150GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CAPTAIN OAT INSTANT 800GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CAPTAIN OATS QUICK COOKING 800GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CAPTAIN OATS QUICK COOKING 200GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OATSY HAVERMOUT OATMEAL INST 200GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OATSY HAVERMOUT QUICK COOK OATMEAL 750GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OATSY HAVERMOUT OATMEAL INST 750GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HEI HWANG TEN WHOLE GRAINS CEREAL 480GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FITBAR COKLAT DUS 5X20GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FITBAR COKLAT SACHET 20GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ORGANIC ROYAL WHITE QUINOA 500GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE HONEY STARS 30GR CUP",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ENTRASOL CEREAL COKLAT 5X30G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ENTRASOL CEREAL VANILA 5X30G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRANOLA TRPCL FRUITS&NUTS MUESLI 400GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRANOLA CINNAMON&RAISIN ORGNL MIX 400G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRANOLA DARK CHOC&BANANA GRMT BLEND 400G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SIMBA CHOCO CHIPS 150GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "TRIO NATURAL SUNFLOWER SEEDS 250GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "TRIO NATURAL QUINOA WHITE 500GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "TRIO NATURAL PUMPKIN SEEDS 250GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OAT MORNING CRANBERRY ALMOND 250GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OAT MORNING NUTTY CHOCOLATE 250GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OAT MORNING CINNAPLE RAISIN 250GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "TRIO NATURAL CHIA SEEDS WHITE 250GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HAVERJOY HAVERMOUT ROLLED OAT 1KG",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SOY JOY ALMOND CHOCOLATE 30GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MOSTA BUBUK TERATAI 300GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRANOLA HONEY & MANGO MUESLI 400GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CORNY BIG CHOCOLATE BANANA 50GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CORNY BIG CRANBERRY 50GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CORNY BIG DARK CHOCOLATE 50GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GOLITE GRANOLA DARK CHOCO HAZELNUT 300GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GOLITE GRANOLA CRUNCHY NUTTY FRUIT 300GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GOLITE GRANOLA SAVORY&CHEESY 300GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "TRIO NATURAL GRANOLA CLASSIC 500GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CHIA SEEDS ORGANIC 500GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE KOKO CRUNCH 80GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OAT MORNING PEANUT BTTR&CHOCO CHIP 250GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PORORO ALMONDS FLAKES CEREAL 310G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PORORO FIVE GRNS CHOCOROPIN CEREAL 220G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PORORO FIVE GRNS CHOCOROPIN CEREAL 520G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "PORORO CORN PLEASURE CEREAL 310G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "QUAKER OAT CEREAL INSTANT 1200G PCH",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HEAVENLY BLUSH YOGURT LIME 25G BAR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HEAVENLY BLUSH YOGURT BERRIES 25G BAR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRANOLA DARK CHOC&BANANA GRMT BLEND 200G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "L-MEN CRUNCHN CHOCOLATE BAR 25G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GOWELL CHOCOLATE POLYBAG REJUV 5X30G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GOWELL VANILLA POLYBAG REJUV 5X30G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CARMAN'S OAT SLICE CRNBRRY&BLBRRY 175GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CARMAN'S DRK CHOCO CRNBRRY MSLI BAR 200G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CARMAN'S ALMND HZLNT&VNLL NUT BARS 175GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRANOBAR CHOCOLATE ALMOND&CASHEWS 29GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRANOBAR HONEY CRANBERRIES&NUTS 29GR BAR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRANOBAR DATES ALMONDS&CHIA SEEDS 29GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CARMAN'S SUPER BERRY MUESLI 500GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "VERLIN GRANOLA CLSTR ALMOND/W CHOCO 150G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "VERLIN GRANOLA CLSTR HNY RSTD ALMND 150G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "VERLIN GRANOLA CRANBERRY ALMOND 200G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "VERLIN GRANOLA HIGH FIBER CHIA SEED 200G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "VERLIN GRANOLA CLUSTER MIX BERRIES 150G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BAKALLAND  MUESLI 5 SEED W/HONEY 300GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BAKALLAND MUESLI 5 NUTS 300GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FAMILIA JUNGLE CRUNCH CEREALS 250G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YAVA CASHEW GRANOLA CHOCO VNLL 400G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YAVA CASHEW GRANOLA COCONT BNN 400G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YAVA CSHW GRANOLA BTS CCNT BNN 125G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YAVA CSHW GRANOLA BTS CHOCO VNL 125",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "EMCO OAT BRAND 250G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "EMCO OAT FLAKES 500G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "EMCO GRANOLA GLTN FREE CHOCO&ALMOND 340G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "EMCO MUSLI CRUNCHY CHOCO&HAZELNUTS 375GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "EMCO MUSLI CRUNCHY STRAWBERRS&ALMND 375G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "EMCO MUSLI CRUNCHY BLUEBRRS&RASPBRRS 375",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "EMCO MUSLI CRUNCHY HONEY&HAZELNUTS 375G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CAPTAIN OAT ROLLED OATS 800GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FAMILIA SWISS CHOCO TEDDY 250G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ROYAL NUTS KG",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OAT MORNING APPLE&RAISIN 50GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OAT MORNING ALMOND&CASHEW CHOCOLATE 50GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BAKALLAND MUESLI 5 TROPICAL FRUIT 300GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRANOLAB FRUIT&NUT 210G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRANOLAB DARK CHOCOLATE&ALMOND 210G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRANOLAB ORIGINAL HONEY 210G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HUNDRED SEED GRANOLA CCNT ORI MIX 100GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE HONEY STAR 70G PCH",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HUNDRED SEEDS GRNL PEANUT BTTR&CHOCO 400",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OATSY STEEL CUT OATS 750G PCH",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SANITARIUM LIGHT N TASTY BERRY 500G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OATSY TROPICAL FRUIT MUESLI 500G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OATSY APRICOT SULTANA&ALMOND MUESLI 500G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YAVA CASHEW GRANOLA TRPCL FRTS 400G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YAVA CASHEW GRANOLA CHCLT BNN 125G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YAVA CASHEW GRANOLA TRPCL FRTS 125G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YAVA CASHEW GRANOLA RSLL CNNMN 400G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SEITENBACHER MUSLI #2 BRRS TEMPTTN 375G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SEITENBACHER MUSLI #4 PMPKN SEED MIX 375",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SEITENBACHER MUSLI #3 FOR ACTV PPL 375GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SEITENBACHER MUSLI #5 CHOCO MAX 375GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SEITENBACHER MUSLI #1 STRWBRRY DLGHT 375",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "STRIVE SALTED CARAMEL 45G BAR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "STRIVE PEANUT BUTTER COFFE 45G BAR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE MILO SEREAL COKELAT 23,5G BAR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGG'S FROOT LOOPS MRSHMALLOW 10.5OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BROOKFARM NUTTY GRANOLA MAPLE VNL 350GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BROOKFARM WILD BERRY GRANOLA 300GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GENERAL MILLS CHEERIOS CEREAL 252GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BROOKFARM TOASTED MUESLI C/BERRY MC 350G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BROOKFARM NAT MUESLI C/BERRY MC 350G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "POST FRUITY PEBBLES 15OZ BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ENERGEN JAGUNG SACHET 10X29GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ENERGEN JAHE RCG 10S X 32G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ENERGEN KACANG HIJAU RCG 10S X 32G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ENERGEN VANILLA RCG 10S X 34G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ENERGEN COKLAT RCG 10S X 35G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BROOKFARM GRANOLA CACAO CCNT 350GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BROOKFARM MUESLI W/CRANBERRY 350GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CAPTAIN OAT INSTANT 12X40GR SCH",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FITBAR TIRAMISU 5X20GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FITBAR TIRAMISU 20GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "QUICK FRESH CHIA SEED 250GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ENERGEN KURMA 300GR PCH",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "VERLIN HAZELNUT DARK CHOCOLATE 200GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NOLA GRANOLA CHIPS CHOCO VANILA 100GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NOLA GRANOLA CHIPS PEANUT BUTTER 100GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NOLA GRANOLA CHIPS ES TELER 100GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NOLA GRANOLA CHIPS CHOCOLATE BARK 100GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "STRIVE BITE SIZE MIX 5X20G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SIMBA CHOCO CHIPS FB 300G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GENERAL MILLS REESES PUFFS CRL MID 11.5O",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "POST CEREAL COKLAT WITH MARSMALLOW 250GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRANOLAB PEANUT BUTTER&BELGIAN CHOC 180G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRANOLAB OAT CRUNCH CRM CHEESE&ALMND 50G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRANOLAB OAT CRUNCH CHOCOLATE 50G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRANOLAB OAT CRUNCH BERRY YOGURT 50G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "RED TRACTOR AUSTRALIAN INSTANT OATS 500G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "RED TRACTOR AUSTR RLLD OATS CRMY 1KG",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "RED TRACTOR ORGANIC ROLLED OATS 1KG",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KOKO KRUNCH DOUBLE CHOCO COMBO 30G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OATBARN CLASSIC INSTANT OATMEAL CUP 46G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OATBARN CHOC INSTANT OATMEAL CUP 66GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OATBARN CKS'N CRM INST OATMEAL CUP 65GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OATBARN CRANBRS N CINNAMON OATMEAL 69GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "QUAKER ROLLED OATS 800GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "POST COCOA PEBBLES 15OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OATSY ORGANIC INSTANT OATMEAL 500G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OATSY ORGANIC ROLLED OATS 500G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OATSY GLUTEEN FREE INSTANT OATMEAL 500G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OATSY GLUTEEN FREE ROLLED OATS 500G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OATSY OAT WITH MULTI GRAIN 750G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OATSY NATURES HARVEST MUESLI 500G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FAMILIA COCONUT QUINOA GRANOLA 375GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FAMILIA HONEY GRANOLA 375GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SOYJOY DANISH CHEESE 28G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HARRAWAYS INSTANT OATS ORIGINAL 315G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HARRAWAYS INSTANT OATS KIWI FVRT 315GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HARRAWAYS INST OATS APPLE SLTN&CNM 315G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HARRAWAYS INST OATS KAMACHI HNY&GLD 315G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HARRAWAYS INSTANT OAT BERRY BONANZA 315G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HARRAWAYS OATS WHOLEGRAIN 1KG",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HARRAWAYS OATS ROLLED 1KG",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HARRAWAYS STEEL CUT OATS 500GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HARRAWAYS OATS EASY COOK 280GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HARRAWAYS OAT TROPICAL FRUIT MUESLI 750G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HARRAWAYS OATS ORIGINAL MUESLI 750GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "7+ CEREAL BAR COCOA CHIA 22G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "7+ CEREAL BAR YOGHURT BERRY 22G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OATBARN OVERNIGHT OATS MERRY BERRIES 75G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OATBARN OVERNIGHT OATS CHOCOLATE 75G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OATBARN OVERNIGHT OATS SUPER SEEDS 75G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "POST HONEY BUNCHES OF OATS STRAW 11OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "POST HONEY BUNCHES OF OATS VANILLA 12OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "QUAKER 3 IN 1 VANILLA 224G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "COVITA HEALTHY PROTEIN BAR CHOCO PNT 40G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "COVITA HEALTHY PROTEIN MATCHA CHIA 40G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "COVITA HEALTHY PROTEIN BROWNIE CHOCO 40G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "COVITA HEALTHY PROTEIN ALMOND BUTTER 40G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "COVITA HEALTHY PROTEIN PB CHOC CRUNC 40G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRANOVA SNACK BARS NUTS&SEEDS 26G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRANOVA SNACK BARS NUTS&CHOC BAR 26GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRANOVA SNACK BARS PEANUT BTR&BERRY 26GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SOYJOY MOCHA CHOCO CASHEW 30G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "DAMTUH BLACK GRAIN MIX POWDER 20GX12",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "DAMTUH WALNUT ALMOND ADLAY 15X18G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "DAMTUH CORNFLAKE POTATO YAM 12X22G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NO BRAND CHOCO RING CEREAL 570G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NO BRAND ALMOND CRANBERRY CEREAL 630G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HEAVENLY BLUSH YOGURT BAR BERRIES 4X25G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FRANCIS CRAZY CHOCOLATE GRANOLA 340GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FRANCIS MIX FRUIT CRUNCHY GRANOLA 340GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FRANCIS HONEY NUTTIES GRANOLA 340GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FRANCIS HONEY CASHEW GRANOLA 340GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FRANCIS PREMIUM GRANOLA MIX 250GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GOLITE BREAKY BITES FRUITY BUNCH 150G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GOLITE BREAKY BITES CHOCO BUNCH 150G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GOLITE MINI GRNL CRNCHY NUTTY FRTY 100GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GOLITE MINI GRANOLA DARK CHOC HZLNT 100G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GOLITE CEREAL ORIGNL CRUNCH W/CSHW 200GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GOLITE CEREAL ORIGNL CRUNCH W/COCOA 200G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YAVA GO NOLA CHOCOLATE VANILLA 30G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YAVA GRANOLA PUFFS CHOCOLATE VANILLA 35G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YAVA GRANOLA WITH CASHEWS CHOC BNN 200GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YAVA GRANOLA WITH CASHEWS CHOC VNL 200GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YAVA GRANOLA CHOCOLATE BANANA 400G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KOKO KRUNCH REFILL 50GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "7+ CEREAL BAR COCOA CHIA 3X22G B2G1",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "7+ CEREAL BAR YOGHURT BERRY 3X22G B2G1",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "POST HONEY BUNCHES OAT MAPLE&PECANS 12OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGGS CORN FLAKES 60G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGGS HONEY CRUNCH CORN FLAKES 50G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGGS FROOT LOOPS 55G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BOB RED MILLS TROPICAL MUESLI 14OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BOB'S RED MILL OATMEAL BLBRY&HZLNT 2.5OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BOB'S RED MILL OG OATS ROLLED QUICK 16OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BOB'S RED MILL ORG OATS ROLLED RGLR 16OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BOB'S RED MILL RLLD OATS COOKING ORGN 32",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BOB'S RED OATMEAL BROWN SUGAR&MPL 2.15OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BRM PEANUT BTR BNN&OATS BOBS BAR 1.76OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BRM PEANUT BTTR CHOC&OATS BOBS 1.76OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HEALTHY CHOICE CHIA SEED 500GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HEALTHY CHOICE GRNL CEREAL CHOC NUT 200G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HEALTHY CHOICE GRNL CEREAL HNY CINM 200G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HEALTHY CHOICE GRNL CEREAL NUTTY NUT 200",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SOYJOY LEEKER&NUTS 28G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SOYJOY TROPICAL CRANBERRIES 30G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FITBAR CHEESE DELIGHT 20G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FITBAR CHEESE DELIGHT 5X20G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGGS FROOT LOOPS WILLY WONKA 7.8 OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGGS COCO FILLS BOX 150 GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGGS COCO FILLS POUCH 60GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "QUAKER INST OATMEAL APPLE CINNAMON 344GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "QUAKER INST OATMEAL COOKIES&CRM 210GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "QUAKER INSTANT OATMEAL FRUIT&CRM 240GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "QUAKER INST OATMEAL MAPLE BROWN SGR 272G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CAP'N CRUNCH OOPS ALL BERRIES 293GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CAP'N CRUNCH - CRUNCH BERRIES 334GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CAP'N CRUNCH CHRISTMAS EDITION 334GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "POST COCOA PEBBLES CRUNCH 326GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGGS FRSTD FLKS S/BERRY MILKSHK 374G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGGS RAINBOW CRISPY FRTY CEREAL 314G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GENERAL MILLS KITKAT CEREAL 326GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GENERAL MILLS GINGERBREAD TOAST 340GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GENERAL MILLS SGR CKIES CRUNCH CRL 340GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "POST FRUITY PEBBLES CRUNCHD 326 GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGGS POP TARTS APPLE JACKS 384GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGGS POP TARTS FRSTD BANANA BRD 384G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GENERAL MILL TRIX MINIS CEREAL 10.8 OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGGS POP TARTS FRSTD CHOCOCHIP 13.5O",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CAP'N CRUNCH ORIGINAL 12,6 OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CAP'N CRUNCH PEANUT BUTTER 11.4 OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GENERAL MILLS LUCKY CHARM MINIS 10.5 OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GENERAL MILLS TRIX LOADED 13 OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GENERAL MILLS CHERIOS HNY NUT MNS 10,8OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGGS KRISPIES TREATS RAINBOW 5.6 OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "7+ CEREAL BAR COCOA CHIA BOX 5X22 GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "7+ CEREAL BAR YOGHURT BERRY BOX 5 X 22GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "EL ORGANICO ORGNC GLTN FREE CHIA SD 100G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "EL ORGANICO ORGNC GLTN FREE CHIA SD 500G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SOYJOY ALMOND CHOCOLATE CLUSTER 6X30GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "STRIVE PROTEIN BAR KOPI HAZELNUT 60 GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "STRIVE PROTEIN BAR BLUEBERRY 60GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "STRIVE PROTEIN BAR MOCHA 60 GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "STRIVE PROTEIN BAR KACANG&CHOCO CHIP 60G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE GOLD CORN FLAKES CEREAL 150 GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HONLIFE CHIA SEEDS GRNL S/BRY&C/BRY 330G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HONLIFE CHIA SEEDS GRNL YGHRT&ASST 330G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HONLIFE CHIA SEEDS GRNL YGHRT&PEACH 330G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGGS RICE KRSPS TRETS CHOC CHIP 6.2O",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GENERAL MILLS LUCKY CHRM BERRY SWRL 10.9",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GENERAL MILLS LUCKY CHARM SMORES 11 OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "QUAKER DINASOUR EGGS BROWN SUGAR 14.1 OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "QUAKER INSTANT FLAVOR VARIETY 15.1 OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GENERAL MILLS RSS PUFFS PNT BTR LVR 11.5",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGGS GRANOLA DARK CHOCOLATE 220GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGGS GRANOLA MIXED BERRIES 220GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGGS GRANOLA DARK CHOCOLATE 40GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGGS GRANOLA MIXED BERRIES 40GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "WRP ACTIVE FIBBY 105GR BOX",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ORGRAN GLUTEN FREE CORN FLAKES 300GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "RED TRACTOR ORGANIC STEEL CUT OAT 1KG",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HEAVENLY BLUSH TUMMY YGHRT BERRIES 10X9G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HEAVENLY BLUSH TUMMY YGHRT BAR LIME 10X9",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FRANCIS BLUEBERRY GRANOLA 340GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FRANCIS CRANBERRY&WALNUT GRANOLA 340GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FRANCIS STRAWBERRY&ALMOND GRANOLA 340GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "QUAKER CINNAMON SPICE 15.1 OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FRANCIS ALMOND MUESLI 340GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FRANCIS STRAWBERRY&ALMOND MUESLI 340GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FRANCIS MIXEDFRUIT MUESLI 340GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "L-MEN PROTEIN BAR STRONGBERY 20GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AMAZIN' GRAZE CHOC HAZELNUT GRANOLA 40GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AMAZIN' GRAZE BLUEBERRY CCNT GRANOLA 40G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AMAZIN' GRAZE BANANA BREAD GRANOLA 40GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AMAZIN' GRAZE COCONUT KAYA GRANOLA 40GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AMAZIN' GRAZE HZLNT BLCKFRST GRANL 250G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AMAZIN' GRAZE B/BERRY GOJI GRANOLA 250GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AMAZIN' GRAZE BANANA BREAD GRANOLA 250GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AMAZIN' GRAZE COCONUT KAYA GRANOLA 250GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "AMAZIN' GRAZE WILD S/BERRY LOW SGR 250G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "TRIX CEREAL 300GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "TRIX CEREAL 180GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "QUAKER 3IN1 BERRY BURST 8X30G BAG",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OATSIDE CRUNCH BAR CHOCOLATE 18GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OATSIDE CRUNCH BAR PEANUT BUTTER 18GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OATSIDE CRUNCH BAR STRAWBERRY 18GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NICE&NATURAL CHOC NUT BARS APRICOT 180GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NICE&NATURAL CHOC NUT BARS PNT&ALMN 180G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NICE&NATURAL RSTD NUT BARS MIXBERRY 192G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NICE&NATURAL RSTD NUT BARS PNT&ALMND 192",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NICE&NATURAL RSTD NUT BARS PNT&CSHW 192G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NICE&NATURAL RSTD NUT BARS MILK CHOC 192",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NICE&NATURAL RSTD NUT BARS TRAIL MIX 192",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NICE&NATURAL RSTD NUT BARS YOGHURT 192G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ENTRASOL MULTIGRAIN OATMEAL 180GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "ENTRASOL MULTIGRAIN OATMEAL 600GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SOYJOY KURMA NASTAR 30GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGGS SPC K BANANA&CREAM 13.1 OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGGS SPC K RED BERRIES 11.4 OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGGS SPC K S/BEERY&VANILLA 13.3 OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGGS SPC K VANILLA&ALMOND 12.5 OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGGS SPC K CHOCOLATE DELIGHT 12.5 OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGGS FROOTLOOPS RAINBOW SCOOPS 7.8OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGGS FRT FLAKES S/BRY MILKSHAKE 11.6",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FITBAR PROTEIN COKLAT 25 GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FAMILIA PURE GRANOLA NO ADD SUGAR 485GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGG'S CORN FLAKES HONEY 250GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGG'S CHOCO FILL 300G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CALSOME CEREAL DRINK CHOCOLATE 20X25GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CALSOME CEREAL DRINK VANILLA 20 X 25G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FNV BROWN RICE BAR W/ALMND&PORK FLOSS 15",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FNV BROWN RICE BAR W/WALNUT&SEAWEED 15G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FNV BROWN RICE BAR W/SWEED&CHK BRST 15GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FNV BOAT CAKE AND NUTRIONAL NUTS 12G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SIMBA MAGIC RAINBOW 300GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SIMBA MAGIC RAINBOW 150GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SIMBA CHOCO CHIPS STRAWBERRY CUP 34GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SIMBA CHOCO CHIPS STRAWBERRY 150GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SIMBA CHOCO CHIPS STRAWBERRY 300G +10%",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BUMIL GRANOLA BAR YOGHURT BERRY 26GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BUMIL GRANOLA BAR COKLAT 26GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRANOVA KENANGAN MANTAN COFFEE BAR 26GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRANOVA YOGHURT BERRY BAR 26GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRANOVA CHOCOLATE CRANBERRY 100GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRANOVA HONEY ALMOND 100G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRANOVA BANANA NUT 100GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE KIT KAT CEREAL 330G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FNV BROWN RICE BAR W/ALMND&PORK FLS 5x15",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FNV BROWN RICE BAR W/WLNT&SEAWEED 15X5GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FNV BROWN RICE BAR W/SWEED&CHK BRST 5X15",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "FNV BOAT CAKE AND NUTRIONAL NUTS 5X12G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "LOWAN COCOA BOMBS GLUTEN FREE 300GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "LOWAN RAINBOW BOMBS GLUTEN FREE 300GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GOLD ROAST CEREAL W/CHIA SEEDS 420GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GOLD ROAST CEREAL W/BLACK SESAME 420GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GOLD ROAST CEREAL ORIGINAL 420GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GOLD ROAST NUTRITIOUS CEREAL 420GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "QUAKER 3IN1 COKELAT 8X28G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OAT-K OAT COFFEE 150GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OAT-K OAT TEA 150GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OAT-K OAT CHOCOLATE 150GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "OAT-K OAT MATCHA 150GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HONLIFE FRT CHIA SEEDS GRNL S/BERRY 100G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HONLIFE CHIA SEEDS GRNL YGHRT&PEACH 100G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HONLIFE CHIA SEEDS GRNL YGHRT&ASST 100G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CORNY BIG MILK CLASSIC 40GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CORNY BIG DARK & WHITE 40GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "CORNY BIG CHOCOLATE SALTED CARAMEL 40GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NEXTFOOD CHILDHOOD DREAM MUESLI 325G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NEXTFOOD COZY MORNING MUESLI 325G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HONLIFE FRUIT GRANOLA 8 MIX S/BERRY&YGHR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HONLIFE CHIA SEEDS GRNL 8 MIX FRT 202G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "DAMTUH WALNUT ALOMND ADLAY 8X18GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BC BAR HI PROTEIN CHOC MINT CRUNCH 40G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BC BAR INDULGE SALTED CARAMEL CHOC 40G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BC BAR HI PROTEIN CHOCOLATE BROWNIE 40G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BC BAR HI PROTEIN RASPBERRY TRUFFLLE 40G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "BC BAR HI PROTEIN CHOCOLATE ALMOND 40G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE NESTUM HONEY FLAVOR 450G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "NESTLE NESTUM ORIGINAL FLAVOR 450G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "HOT CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YAVA GRANOLA TRIPLE BERRY 400G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YAVA YA'BAR CHOCOLATE 28G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YAVA YA'BAR PEANUT CARAMEL 28G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "BARS"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MONSTER CHOC LISH MUESLI 405G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "MONSTER INSTANT OATS MUESLI 700G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YOUNGER FARM GRNL B/BERRY YGRT&BRRY 200G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YOUNGER FARM GRNL S/BERRY YGRT&BERRY 200",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YOUNGER FARM GRNL S/BERRY YOGURT&FRT 200",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "YOUNGER FARM GRANOLA CHOCOLATE MALT 225G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRANDE GRANOLA FRENCH VNL ALMOND 230GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRANDE GRANOLA CHOC&PEANUT BUTTER 230GR",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "GRANDE GRANOLA FRUIT & SEED 230G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "SANITARIUM WEET BIX CHOCO CRUNCH 500G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HILO ACTIVE GRANOLA BERRY HONEY 150G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HOSPITALITY CEREAL RAINSIN BRAN 7OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HOSPITALITY CEREALBERIE BNCH O KRNCH 7OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HOSPITALITY CEREAL HNY NUT TSTD OAT 7OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HOSPITALITY CEREAL CORN FLAKES 7 OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HOSPITALITY CEREAL FRUIT WHIRLS 7 OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HOSPITALITY CEREAL CO-O  KRUNCH 7 OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HOSPITALITY CEREAL RICE 7 OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HOSPITALITY CEREAL SUGAR FROST FLKS 7OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "HOSPITALITY CEREAL APPLE WHIRLS 7 OZ",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGG'S COCO POPS 320G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
+  },
+  {
+    "nama": "KELLOGG'S CORN FLAKES 220G",
+    "kategori": "BREAKFAST CEREAL",
+    "lorong": "13",
+    "alias": [
+      "COLD CEREAL"
+    ],
+    "keterangan": ""
   }
 ]
